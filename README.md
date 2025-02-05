@@ -22,13 +22,13 @@ pip install pycryptodome
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-depot.git
+git clone https://github.com/MounjidAmine/Signature-Num-rique.git
 ```
 
 Accédez au dossier du projet :
 
 ```bash
-cd nom-du-depot
+cd Signature-Num-rique
 ```
 
 ## Utilisation
@@ -56,9 +56,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 4. Poussez votre branche (`git push origin feature/nouvelle-fonctionnalité`).
 5. Ouvrez une Pull Request.
 
-## Licence
 
-Ce projet est sous licence [MIT](LICENSE).
 
 ## Auteur
 
